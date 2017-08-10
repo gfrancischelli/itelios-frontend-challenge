@@ -1,6 +1,6 @@
 # Itelios Frontend Challenge
 
-Bem-vindo ao desafio de admissão de front-end da ITELIOS! O que preparamos para este desafio é um pedacinho do que você irá fazer aqui na ITELIOS, caso seja admitido.
+Bem-vindo ao desafio de admissão de front-end da Itelios! O que preparamos para este desafio é um pedacinho do que você irá fazer aqui na Itelios, caso seja admitido.
 
 O objetivo do desafio é simples: Consumir uma json via xhttp e, com o resultado dele, montar um widget de prateleira de cross-sell. 
 
